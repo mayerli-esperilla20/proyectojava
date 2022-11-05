@@ -1,0 +1,419 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500&family=Nunito:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+.nc{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F8C4B4;
+    margin: 10px;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+.nd{
+    height: 70px;
+    margin-right:15px;
+    margin: 8px;
+}
+
+#xd{
+    margin: 8px;
+}
+
+.tode{
+    background-color: #8D9EFF ;
+    overflow: hidden;
+}
+
+.holiwi{
+    background-color: #F8C4B4;
+    width: 300px;
+    height: 520px;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-top: 50px;
+    border: 3.5px solid white;
+    border-radius: 10px;
+}
+
+.tode.holiwi img{
+    width: 150px;
+    height: 180px;
+    margin: auto;
+}
+
+#maye{
+    width: 150px; ;
+    height:180px ;
+    border: 3px solid #7486eb;
+    transition: all 0.3s;
+    border-radius: 5px;
+}
+
+#maye:hover{
+    transform: scale(1.1);
+}
+
+h3{
+    margin: 5px;
+    font-size: 21px;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-align: center;
+}
+
+h3:hover{
+    transform: scale(1.1);
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: beige;
+    width: 85px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+#elvisdice{
+    font-size: 16px;
+    margin: 3px;
+    font-weight: bold;
+}
+
+#N1{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N1:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+
+#N2{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N2:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+
+#N3{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N3:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+
+#N4{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N4:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+
+#N5{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N5:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+
+#N6{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N6:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+
+#N7{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N7:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+#N8{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N8:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+#N9{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N9:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+#N10{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N10:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+#N11{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N11:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+#N12{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N12:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+#N13{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N13:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+#N14{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N14:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+#N15{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N15:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+#N16{
+    padding: 0px;
+    margin: 10px;
+    transition: all 0.3s;
+    width: 30px;
+}
+
+#N16:hover{
+    transform: scale(1.1);
+    margin: 10px;
+    padding: 4px;
+}
+
+#botondice{
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 70px;
+    background-color: beige;
+    border: 1px solid;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#botondice:hover{
+    transform: scale(1.1);
+    margin: 7px;
+}
+
+#botoncito{
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 70px;
+    background-color: beige;
+    border: 1px solid;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#botoncito:hover{
+    transform: scale(1.1);
+    margin: 7px;
+}
+
+#botondelam{
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 70px;
+    background-color: beige;
+    border: 1px solid;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#botondelam:hover{
+    transform: scale(1.1);
+    margin: 7px;
+}
+
+#botonpuem{
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 70px;
+    background-color: beige;
+    border: 1px solid;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#botonpuem:hover{
+    transform: scale(1.1);
+    margin: 7px;
+}
+
+#botonyyo{
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 70px;
+    background-color: beige;
+    border: 1px solid;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#botonyyo:hover{
+    transform: scale(1.1);
+    margin: 7px;
+}
+
+#botonytu{
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 70px;
+    background-color: beige;
+    border: 1px solid;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#botonytu:hover{
+    transform: scale(1.1);
+    margin: 7px;
+}
+
+#botonpuee{
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 70px;
+    background-color: beige;
+    border: 1px solid;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#botonpuee:hover{
+    transform: scale(1.1);
+    margin: 7px;
+}
+
+#botonpuehijito{
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 70px;
+    background-color: beige;
+    border: 1px solid;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#botonpuehijito:hover{
+    transform: scale(1.1);
+    margin: 7px;
+}
+
+footer{
+    text-align: center;
+    background-color: beige;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+hr{
+    height: 20px;
+    background-color: #8D9EFF;
+    border: none;
+}
